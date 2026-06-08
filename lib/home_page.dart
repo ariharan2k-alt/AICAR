@@ -67,7 +67,7 @@ class _HomePageState extends State<HomePage> {
                           foregroundColor: Colors.white,
                         ),
                         icon: const Icon(Icons.logout),
-                        tooltip: 'sINGIN',
+                        tooltip: 'LOGOUT',
                       )
                     ],
                   ),
