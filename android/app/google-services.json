@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729650918863",
+    "project_id": "aicar-580d8",
+    "storage_bucket": "aicar-580d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729650918863:android:845655bb76161b8e24ceba",
+        "android_client_info": {
+          "package_name": "com.example.aicar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZqxMr7hTmaqT6wo6KEzI4kNKAKzs-Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
